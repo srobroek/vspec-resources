@@ -1,4 +1,4 @@
-name: resource-vsphere
+name: inspec-vsphere
 title: Inspec Resource profile for vsphere
 maintainer: Sjors Robroek
 copyright: Sjors Robroek
