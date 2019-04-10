@@ -1,2 +1,2 @@
-# vspec-modules
-modules repo for vspec
+# vspec-resoures
+resources repo for vspec
