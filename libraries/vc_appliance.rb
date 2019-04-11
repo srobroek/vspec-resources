@@ -1,5 +1,5 @@
 
-$LOAD_PATH.unshift(*Dir[File.expand_path('../../vendor/gems/**/lib', __FILE__)])
+$LOAD_PATH.unshift(*Dir[File.expand_path('../vendor/gems/**/lib', __FILE__)])
 
 require 'vsphere-automation-appliance'
 require 'vsphere-automation-cis'
